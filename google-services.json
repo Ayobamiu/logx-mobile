@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "548871959167",
+    "project_id": "logx-af4d4",
+    "storage_bucket": "logx-af4d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548871959167:android:b5c8368c9597fb878f454a",
+        "android_client_info": {
+          "package_name": "com.ayobamiu.logx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548871959167-2o25kdoaj8fjb9cum1p9qdoo1lrp679g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYzhNyKUUE2U4cRCutm12yuiahZ1f3XYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548871959167-2o25kdoaj8fjb9cum1p9qdoo1lrp679g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
